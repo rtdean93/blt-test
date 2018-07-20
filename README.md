@@ -1,6 +1,6 @@
 # My Project
 
-A brief description of My Project.
+A brief description of Bobby's Project.
 
 ## Using This Template
 
